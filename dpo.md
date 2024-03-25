@@ -36,6 +36,7 @@ Stanford University, Chan Zuckerberg Biohub -->
 
    ![From RLHF to DPO](assets/20240310_2_1.png)
 
+
 # Method
 
    * Deriving the DPO objective
